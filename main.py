@@ -1,6 +1,7 @@
 # Yandexlyceum antonyz
 def my_superfunction():
     print('What an awesome print!')
+    print('ahahahha')
 
 
 def main():
